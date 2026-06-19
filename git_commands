@@ -1,0 +1,9 @@
+   python --version                                                                                                
+   python testing.py                                                                                               
+   python testing.py                                                                                               
+   git init                                                                                                        
+   git status                                                                                                      
+   clear                                                                                                           
+   git add.                                                                                                        
+   git status                                                                                                       
+   git commit -m "added"   
