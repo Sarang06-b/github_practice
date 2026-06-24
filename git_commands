@@ -1,17 +1,15 @@
-   python --version                                                                                                
-   python testing.py                                                                                               
-   python testing.py                                                                                               
-   git init                                                                                                        
-   git status                                                                                                      
-   clear                                                                                                           
-   git add.                                                                                                        
-   git status                                                                                                       
-   git commit -m "added"   
-   git status                                                                                                      
-  20 git remote add origin https://github.com/Sarang06-b/github_practice.git...                                      
-  21 git remote -v                                                                                                   
-  22 git remote set-url origin https://github.com/Sarang06-b/github_practice.git                                     
-  23 git remote -v                                                                                                   
-  24 git add .\git_commands                                                                                          
-  25 git commit -m "added commands"                                                                                  
-  26 git push origin master 
+#   python --version                                                                                                
+ #  python testing.py                                                                                               
+ #  python testing.py                                                                                               
+ #  git init                                                                                                        
+ ##  git status                                                                                                      
+#   git status                                                                                                       
+  # git commit -m "added"   
+#git status                                                                                                      
+#  20 git remote add origin https://github.com/Sarang06-b/github_practice.git...                                      
+ # 21 git remote -v                                                                                                   
+ # 22 git remote set-url origin https://github.com/Sarang06-b/github_practice.git                                     
+#  23 git remote -v                                                                                                   
+#  24 git add .\git_commands                                                                                          
+#  25 git commit -m "added commands"                                                                                  
+#  26 git push origin master 
