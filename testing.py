@@ -1,1 +1,1 @@
-print("Hello, guys, welcome to testing.py!!, bkl")
+print("Hello, guys, welcome to testing.py!!")
